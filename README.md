@@ -1,2 +1,2 @@
 # clone-tabnews
-Clone de um local perfeito na internet para compartilhar conhecimento
+Clone de um local perfeito na internet para compartilhar ideias
