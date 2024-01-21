@@ -4,6 +4,7 @@
   "description": "Clone de um local perfeito na internet para compartilhar ideias",
   "main": "index.js",
   "scripts": {
+    "dev": "next dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
