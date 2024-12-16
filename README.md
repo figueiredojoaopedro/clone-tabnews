@@ -1,3 +1,3 @@
-# Discussão
+# discussao.com.br
 
-Clone de um local perfeito na internet para encontrar a verdade.
+Um local perfeito na internet para encontrar a verdade.
