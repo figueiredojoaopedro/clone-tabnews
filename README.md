@@ -1,3 +1,3 @@
-# Discussão | clone tabnews
+# Discussão
 
-Clone de um local perfeito na internet para compartilhar ideias
+Clone de um local perfeito na internet para encontrar a verdade.
